@@ -112,6 +112,6 @@ The course uses a blended, learner-centered approach. Sessions may include face-
 
 ## Recommended Reading
 
-1. Robert A. Beezer (2015), *A First Course in Linear Algebra*: <http://linear.ups.edu/html/fcla.html>
+1. Robert A. Beezer (2015), *A First Course in Linear Algebra*
 2. Crowell and Slesnick (2008), *Calculus with Analytic Geometry*
 
